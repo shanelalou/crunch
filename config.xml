@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.gordoncollegeccs.edu.ph.cap" version="1.0">
 
-	<name>CAP</name>
-	<description>CAP</description>
+	<name>CCS Access Point</name>
+	<description>CCS Access Point</description>
 	<author>iThree</author>	<gap:platforms>
 		<gap:platform name="ios" />
 		<gap:platform name="android" />
